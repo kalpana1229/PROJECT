@@ -1,9 +1,12 @@
 class sample
 { 
-//displayInfo();
-//shoeInfo();
+ public void displayInfo(){
+system.out.printIn("displayInfo method");
+}
+//showInfo();
 public static void main (String[]args);
 {
-system.out.printIn("this is sample project");
+Sample s=new Sample();
+s.displayInfo();
 }
 }
