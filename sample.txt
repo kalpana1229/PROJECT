@@ -1,0 +1,9 @@
+class sample
+{ 
+//displayInfo();
+//shoeInfo();
+public static void main (String[]args);
+{
+system.out.printIn("this is sample project");
+}
+}
